@@ -29,7 +29,7 @@ function App() {
           <button className='text-white bg-green-500 py-2 px-6 border-0 rounded text-lg hover:bg-green-600 duration-300'>Contact</button>
         </div>
         <div className='md:w-1/2 lg:max-w-lg w-5/6'>
-          <img src="./img/profile.JPG" alt="" />
+          <img src="https://github.com/sawatakahashi/reactPortfolio/blob/master/reactPortfolio/public/img/profile.JPG?raw=true" alt="" />
         </div>
       </div>
     </section>

@@ -98,7 +98,7 @@ function App() {
       <dir className='container px-5 py-24 mx-auto flex flex-wrap'>
         {/* 左サイド */}
         <div className="mb-10 lg:w-1/2 lg:mb-0 w-full flex justify-center">
-          <img src="./img/Skills.JPG" alt="" className='rounded'/>
+          <img src="https://github.com/sawatakahashi/reactPortfolio/blob/master/reactPortfolio/public/img/Skills.JPG?raw=true" alt="" className='rounded'/>
         </div>
         {/* 右サイド */}
         <div className='lg:pl-12 lg:py-6 w-full lg:w-1/2'>
